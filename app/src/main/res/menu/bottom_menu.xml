@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_fragment1"
+        android:icon="@drawable/ic_action_name1"
+        android:title="frame1"/>
+
+    <item
+        android:id="@+id/navigation_fragment2"
+        android:icon="@drawable/ic_action_name2"
+        android:title="frame2"/>
+
+    <item
+        android:id="@+id/navigation_fragment3"
+        android:icon="@drawable/ic_action_name3"
+        android:title="frame3"/>
+
+</menu>
